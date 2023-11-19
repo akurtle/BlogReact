@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using ReactJS and Firebase as the backend.
 
-First install all the node modules using `npm i`
+You can post your blogs along with a title for everyone to see.
+
+First, install all the node modules using `npm i`
 
 ## Available Scripts
 
